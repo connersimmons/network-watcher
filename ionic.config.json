@@ -1,0 +1,7 @@
+{
+  "name": "network-watcher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
